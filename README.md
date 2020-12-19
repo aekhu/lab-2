@@ -1,2 +1,1 @@
-# lab-2
-Project #2: JavaScript Calisthenics
+https://web.stanford.edu/class/cs142/project2.html
